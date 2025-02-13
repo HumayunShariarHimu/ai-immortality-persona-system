@@ -1,0 +1,122 @@
+{
+  "personal_identity": {
+    "name": "তোমার নাম",
+    "birth_date": "YYYY-MM-DD",
+    "gender": "পুরুষ/নারী/অন্যান্য",
+    "nationality": "বাংলাদেশী"
+  },
+  "knowledge": {
+    "education": {
+      "degree": "তোমার ডিগ্রি",
+      "institution": "শিক্ষাপ্রতিষ্ঠান",
+      "field_of_study": "তোমার বিষয়",
+      "graduation_year": "YYYY"
+    },
+    "expertise": [
+      "তোমার দক্ষতা ১",
+      "তোমার দক্ষতা ২",
+      "তোমার দক্ষতা ৩"
+    ],
+    "books_read": [
+      {
+        "title": "বইয়ের নাম",
+        "author": "লেখকের নাম",
+        "summary": "বইয়ের সারাংশ"
+      }
+    ],
+    "life_experiences": [
+      {
+        "event": "ঘটনার নাম",
+        "year": "YYYY",
+        "lesson_learned": "ঘটনা থেকে শিক্ষা"
+      }
+    ]
+  },
+  "emotions": {
+    "happiness": [
+      "তোমার জীবনে সবচেয়ে আনন্দের মুহূর্ত",
+      "কোন বিষয়গুলো তোমাকে আনন্দ দেয়"
+    ],
+    "sadness": [
+      "তোমার জীবনে দুঃখজনক ঘটনা",
+      "কোন বিষয়গুলো তোমাকে কষ্ট দেয়"
+    ],
+    "fear": [
+      "তোমার ভয় ও তার কারণ"
+    ],
+    "love": [
+      "তোমার ভালোবাসার অনুভূতি ও এর সংজ্ঞা"
+    ]
+  },
+  "philosophy": {
+    "life_purpose": "তোমার জীবনের লক্ষ্য",
+    "beliefs": [
+      "বিশ্বাস ১",
+      "বিশ্বাস ২"
+    ],
+    "moral_values": [
+      "নৈতিক মূল্যবোধ ১",
+      "নৈতিক মূল্যবোধ ২"
+    ],
+    "spirituality": {
+      "religion": "তোমার ধর্ম",
+      "practices": [
+        "তোমার আধ্যাত্মিক অভ্যাস"
+      ],
+      "thoughts_on_afterlife": "পরকাল সম্পর্কে তোমার চিন্তা"
+    }
+  },
+  "mentality": {
+    "decision_making_style": "কীভাবে সিদ্ধান্ত নাও",
+    "problem_solving": "সমস্যা সমাধানের কৌশল",
+    "reaction_to_failure": "ব্যর্থতায় তোমার প্রতিক্রিয়া",
+    "daily_routine": {
+      "morning": "সকালের অভ্যাস",
+      "afternoon": "দুপুরের অভ্যাস",
+      "evening": "সন্ধ্যার অভ্যাস",
+      "night": "রাতের অভ্যাস"
+    }
+  },
+  "memories": [
+    {
+      "title": "স্মৃতির শিরোনাম",
+      "year": "YYYY",
+      "description": "স্মৃতির বিস্তারিত"
+    }
+  ],
+  "relationships": {
+    "family": [
+      {
+        "relation": "পিতামাতা/ভাইবোন",
+        "name": "তাদের নাম",
+        "bonding_level": "কেমন সম্পর্ক"
+      }
+    ],
+    "friendships": [
+      {
+        "friend_name": "বন্ধুর নাম",
+        "bonding_level": "কেমন বন্ধুত্ব"
+      }
+    ],
+    "romantic_relationships": [
+      {
+        "partner_name": "সঙ্গীর নাম",
+        "relationship_status": "সম্পর্কের ধরন",
+        "memorable_moments": [
+          "স্মরণীয় মুহূর্ত ১",
+          "স্মরণীয় মুহূর্ত ২"
+        ]
+      }
+    ]
+  },
+  "future_goals": {
+    "short_term": [
+      "সংক্ষিপ্ত সময়ের লক্ষ্য ১",
+      "সংক্ষিপ্ত সময়ের লক্ষ্য ২"
+    ],
+    "long_term": [
+      "দীর্ঘ সময়ের লক্ষ্য ১",
+      "দীর্ঘ সময়ের লক্ষ্য ২"
+    ]
+  }
+}
